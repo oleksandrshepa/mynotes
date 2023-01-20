@@ -1,4 +1,4 @@
-# This is a list of useful services or tools that I used or using
+# This is a list of useful services or tools that I using
 
 
 
