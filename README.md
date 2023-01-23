@@ -8,3 +8,9 @@ https://www.joydeepdeb.com/tools/find-replace.html - Bulk text replace, great to
 
 ## Management Tools
 https://www.worldtimebuddy.com/ - World Time Buddy (WTB) is a convenient world clock. Great tool.
+
+
+
+## Chrome Extensions
+Open Multi Tabs -  https://chrome.google.com/webstore/detail/open-multiple-urls/oifijhaokejakekmnjmphonojcfkpbbh?hl=en
+Live CSS Editor - https://chrome.google.com/webstore/detail/live-editor-for-css-less/ifhikkcafabcgolfjegfcgloomalapol?hl=en
