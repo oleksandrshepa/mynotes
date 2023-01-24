@@ -2,12 +2,17 @@
 
 
 
-## TEXT Tools
+
+
+
+## Useful Tools
+https://www.worldtimebuddy.com/ - World Time Buddy (WTB) is a convenient world clock. Great tool.
+
 https://www.joydeepdeb.com/tools/find-replace.html - Bulk text replace, great tools to make multiple replace in text or code.
 
+https://getsharex.com/ - Best Free Screenshot Tool.
 
-## Management Tools
-https://www.worldtimebuddy.com/ - World Time Buddy (WTB) is a convenient world clock. Great tool.
+Quick Text snippets -  https://blaze.today/
 
 
 
@@ -15,3 +20,5 @@ https://www.worldtimebuddy.com/ - World Time Buddy (WTB) is a convenient world c
 Open Multi Tabs -  https://chrome.google.com/webstore/detail/open-multiple-urls/oifijhaokejakekmnjmphonojcfkpbbh?hl=en
 
 Live CSS Editor - https://chrome.google.com/webstore/detail/live-editor-for-css-less/ifhikkcafabcgolfjegfcgloomalapol?hl=en
+
+
