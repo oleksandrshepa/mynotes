@@ -12,7 +12,7 @@ https://www.joydeepdeb.com/tools/find-replace.html - Bulk text replace, great to
 
 https://getsharex.com/ - Best Free Screenshot Tool.
 
-Quick Text snippets -  https://blaze.today/
+https://blaze.today/ - Quick Text snippets
 
 
 
