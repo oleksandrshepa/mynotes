@@ -26,5 +26,6 @@ Live CSS Editor - https://chrome.google.com/webstore/detail/live-editor-for-css-
 
 ## Email Development
 https://www.caniemail.com/ - Guide of usage CSS in Emails.
+
 https://milled.com/ - Most of emails in one place. Useful for designers.
 
