@@ -29,3 +29,5 @@ https://www.caniemail.com/ - Guide of usage CSS in Emails.
 
 https://milled.com/ - Most of emails in one place. Useful for designers.
 
+https://www.omnisend.com/subject-line-tester/ - Test your subjects
+
