@@ -28,6 +28,7 @@ Live CSS Editor - https://chrome.google.com/webstore/detail/live-editor-for-css-
 https://www.caniemail.com/ - Guide of usage CSS in Emails.
 
 https://milled.com/ - Most of emails in one place. Useful for designers.
+https://reallygoodemails.com/
 
 https://www.omnisend.com/subject-line-tester/ - Test your subjects
 
