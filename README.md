@@ -16,6 +16,8 @@ https://blaze.today/ - Quick Text snippets
 
 
 
+## Apps
+https://clipclip.com/ - useful management tools for clipboards
 
 
 ## Chrome Extensions
